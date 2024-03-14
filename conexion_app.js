@@ -1,4 +1,3 @@
-// Importar los métodos desde app.js
 const { createCar, showAllCars, deleteCarByLicensePlate } = require('./app');
 
 
